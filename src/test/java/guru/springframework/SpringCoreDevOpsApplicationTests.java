@@ -14,5 +14,5 @@ public class SpringCoreDevOpsApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
+//adding comments in the test class
 }
