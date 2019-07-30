@@ -59,6 +59,7 @@
 		</dependency>
 
 		<!--JMS Dep-->
+		<!--JMS Dep pasted twice for testing-->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-jms</artifactId>
