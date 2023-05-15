@@ -8,7 +8,7 @@ import org.hibernate.validator.constraints.NotEmpty;
 public class LoginCommand {
 
     @NotEmpty
-    private String username;
+    private String username="openingPassword";
 
     @NotEmpty
     private String password;
